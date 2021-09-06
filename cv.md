@@ -15,7 +15,7 @@ I want to become a frontend developer.
 * Git
 * Photoshop
 ## Code Examples
-```
+```javascript
 function getsomething(s)
 {
   //Here will be my code someday!
