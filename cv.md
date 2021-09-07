@@ -19,8 +19,7 @@ I want to become a frontend developer.
 function getsomething(s)
 {
   //Here will be my code someday!
-}
-
+};
 ```
 ## Languages
 * Ukrainian - native speaker.
